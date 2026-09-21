@@ -1,1 +1,3 @@
 # Fraud-detection-XAI
+HOW TO RUN:
+uv run python ...
